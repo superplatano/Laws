@@ -1,0 +1,10 @@
+name: Laws
+version: 1.2
+author: superplatano
+main: me.superplatano.rules.Main
+description: My laws plugin!
+
+commands:
+  laws:
+   aliases: [thelaw]
+   description: This command shows you the rules of the server
